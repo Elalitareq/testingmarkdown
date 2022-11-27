@@ -1,1 +1,1 @@
-<div style="text-align: center;">markdowntest</div>
+<div style="text-align: center; display: flex;">markdowntest</div>
